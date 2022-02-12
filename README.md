@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Swapna Chemboth</h1>
-<h3 align="center">I am passionate about learning new skills</h3>
+<h1 align="center">Hi 👋, I'm Swapna Chemboth. Currently living in Brussels,Belgium</h1>
+<h3 align="center">I have Master degree in Business Administration. I am passionate about learning new skills.</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
+- 🤝 I’m looking for help with **Web development**
+
 - 📫 How to reach me **saji.swapna22@gmail.com**
+
+- ⚡ Fun fact **i am foodie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
